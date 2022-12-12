@@ -12,7 +12,7 @@ function car_init() {
 				'singular_name'  => __( 'Car'),
 				'add_new' =>'Add new car',
 			),
-			'supports' => array('thumbnail'),
+			'supports' => array('thumbnail', 'title', 'editor'),
 			'public' => true,
 			'has_archive' => true,
 		)

@@ -1,6 +1,7 @@
  a{
   text-decoration: none;
   color: rgb(57, 193, 3);
+  cursor:default;
  }
  body{
   background-color: black;
