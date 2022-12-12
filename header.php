@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="header">
-            <?php the_custom_logo();?>
+            <div class="logo"><?php the_custom_logo();?></div>
             <p style="color:white;"> <?php the_title(); ?> </p>
         </div>
     </header>
